@@ -1,0 +1,21 @@
+---
+title: "Cloud Imaging Environments"
+author: "P. Melloy"
+date: "9 July 2019"
+output: html_document
+---
+
+
+Notes on workshop cloud computing for image analysis
+
+[FAIR as a method of storing data.](https://www.ands.org.au/working-with-data/fairdata)  
+   * Findable  
+   * Accessible (DOI)  
+   * Interoperable  
+   * Reusable (licences)  
+   
+
+
+[CVL: Characterisation Virtual Laboratory](https://www.cvl.org.au/)
+
+

@@ -1,0 +1,16 @@
+---
+title: "OSM_QGIS"
+author: "P. Melloy"
+date: "10 July 2019"
+output: html_document
+---
+
+This following is a link to the etherpad /crytopad
+[frama.link/resbaz_osm](https://cryptpad.fr/pad/#/2/pad/edit/-uY2-D3QN-CeHQ0Tf4HcLJXz/)
+
+**Task 1**
+We are going to work on a project that is needed for humanatarian effort  
+[#6219 - Papua New Guinea Volcanic Risk Reduction: Karkar Island Buildings and Roads](https://tasks.hotosm.org/project/6219)  
+**Details:** HOT has launched a disaster risk reduction campaign, mapping the most active volcanoes in Papua New Guinea, to help agencies plan and respond to disasters. Karkar is a volcanic island, and your assistance is required to map buildings and roads using Bing imagery (or Esri World imagery if area is cloudy).  
+
+
