@@ -14,3 +14,15 @@ We are going to work on a project that is needed for humanatarian effort
 **Details:** HOT has launched a disaster risk reduction campaign, mapping the most active volcanoes in Papua New Guinea, to help agencies plan and respond to disasters. Karkar is a volcanic island, and your assistance is required to map buildings and roads using Bing imagery (or Esri World imagery if area is cloudy).  
 
 
+Added OSM data in QGIS via exporting data on the website and importing the data as a raster
+file saved as `C:\Users\U8011054\OneDrive - USQ\Cloudstor\QGIS\OSM_project\190710_ResBaz_osm_project.qgz`
+
+Also grabbing information from OSMQuick  
+   - Vector menu  
+   - QuickOSM  
+   - QuickQuery  
+      - Key:Buildings
+      - Canvas extent
+      
+      
+Google: use r with qgis

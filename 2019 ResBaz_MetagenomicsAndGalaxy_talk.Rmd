@@ -1,0 +1,15 @@
+---
+title: "metagenomics"
+author: "P. Melloy"
+date: "10 July 2019"
+output: html_document
+---
+# Metagenomics workshop given by AGRF.  
+
+Downloadable data  
+https://cloudstor.aarnet.edu.au/plus/s/EStA4rhXb5n3HhJ  
+https://tinyurl.com/y65adzhk  
+
+This lecture talked about what meta-genomics is and using Galaxy workbench to analyse meta-genomic data.  
+
+The lecturer mumbled through the presentation making it difficult to pay attention after lunch.  
