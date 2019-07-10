@@ -14,3 +14,8 @@ Aust_unis %>%
    addTiles() %>%
    setView(lat = -19, lng = 132.3, zoom = 3) %>%
    addMarkers(~lon, lat = ~lat, label = (Aust_unis)[,1])
+
+
+# Python workshop
+# https://bio-swc-bne.github.io/2019-07-09-Resbazbris-Python/
+   

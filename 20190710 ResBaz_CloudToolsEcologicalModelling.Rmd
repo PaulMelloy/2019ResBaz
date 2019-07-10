@@ -7,3 +7,83 @@ output: html_document
 
 # Innovative cloud-based tools for ecological modelling
 
+Using two tools in the workshop  
+   - BCCVL  
+   - EcoCloud  
+   
+## What are species distribution models (SDM)  
+
+   - Abiotic factors (temperature, rainfall)  
+   - Biotic interactions (food, shelter?)  
+   - Dispersal (geographic) limitations  
+   
+Can give predicted distribution maps; uses a correlative model, only based on abiotc factors.  
+
+Species data ~ Environmentatal data(B0) -> algorthym
+
+infering *absence* - pseudo-absence (ie. assuming absence is not present)  
+   - generate random points to input as *pseudo-absence*.  
+   - Contrasting environments; *absences* are where environments are not the same to where you have "*presences*"  
+   - min & Max radius; sets boundry around *presences* before it sets *absences*  
+
+## Environmental regiems  
+   - Moisture  
+   - Thermal  
+   - Radiation (light)  
+   - Mineral nutrients (soil type)  
+
+Environmental data obtains from climate data not so much daily/hourly data.  
+   -  obtained from point sources.  
+   -  Interpolated into raster/grid data.
+   
+   
+Check the type of data that is used in the data.  
+ALA (Atlas of Living Australia) can have botanical gardens data that would be an outlier
+Time when a species was observed, don't want to used 1950s data. Climate change and time can change suitability for species.  
+
+
+## Algorithms
+### Geographic models (not true SDM algoritms)  
+   - Don't use environmental data  
+   - presence only  
+   - generates a minimal polygon around *occurances*  
+
+### Profile Model  
+   - Presence only   
+   - Need environmental data  
+   - Uses min and max values for environmental variables.  
+   - Additive model (linear)  
+   - does not use ____
+   - only uses continuous variables  
+   
+### Statistical regression model  
+   - Uses presences and absence data (I am guessing bionmial)  
+   - GLM and GAMS  
+   
+### Machine learning Models  
+   - MAxENT  
+      * need to generate background data  
+      * People should compare it to other algorithms
+   - Tree based models  
+   - artificial nueral networks  
+*** 
+**What model should you use?**
+***
+
+BCCVL - Biodeversity, Climate Change, Virtual Laboratory
+
+www.bccvl.org.au
+
+Did some modelling runs on The Southern Corroboree frog, *Pseudophryne corroboree*.
+Results were downloaded for each model and saved at the following location `C:\Users\U8011054\OneDrive - USQ\Cloudstor\BCCIV`
+
+## Ecocloud  
+
+Uses a jupyter notebook 
+All training resources are located at the github repository
+https://ecocloud.org.au/  
+
+
+
+
+
