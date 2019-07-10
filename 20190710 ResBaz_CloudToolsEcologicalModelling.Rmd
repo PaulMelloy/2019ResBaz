@@ -83,6 +83,17 @@ Uses a jupyter notebook
 All training resources are located at the github repository
 https://ecocloud.org.au/  
 
+Worth checking out TERN tools on github
+https://github.com/ternaustralia 
+
+More links to relevant information and data
+www.ecoed.org.au/materials
+
+Feedback link
+http://bit.ly/Resbaz-feedback
+
+Tinker
+
 
 
 
