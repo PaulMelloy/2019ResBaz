@@ -31,7 +31,7 @@ First we are going to find the BOM stations near the point of interest.
 
 # subset BOM stations by distance of 200km from latlon.
 stations <- sweep_for_stations(latlon = c(-26.56, 151.93))
-stations <- subset(stations, distance <= 150)
+stations <- subset(stations, distance <= 200)
 
 station_data <- lapply(stations$site, 
                        get_historical,
